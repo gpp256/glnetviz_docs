@@ -1,0 +1,205 @@
+# Japanese translations for glNetViz package.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-05 18:11\n"
+"PO-Revision-Date: 2013-05-05 15:36\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# abe9d66c35784eada0414bbf3e3a84f7
+#: ../../contents01.rst:3
+msgid "Quick Start"
+msgstr "セットアップ手順"
+
+# 9f3259140afc44a5b871e264e6609d16
+#: ../../contents01.rst:18
+msgid "Building and Installing"
+msgstr "glNetVIzのインストール"
+
+# 224cfbc2acc742368f1a33660afd5ffa
+#: ../../contents01.rst:20
+msgid "To install, run the following commands in the glNetViz directory."
+msgstr "インストール方法を以下に記述します。"
+
+# 3921000d89224321b8948c6d672cce7e
+#: ../../contents01.rst:59
+msgid "Other Dependent Components"
+msgstr "依存パッケージのインストール"
+
+# 23a56f892b6145ba8b57307bdfd373a4
+#: ../../contents01.rst:61
+msgid "Some perl modules are needed for starting the glNetViz."
+msgstr "glNetVizは次の表に示すPerlのモジュールに依存しています。"
+
+# cb44f183c2414a11a24698be14100621
+#: ../../contents01.rst:1
+msgid "Component"
+msgstr "モジュール名"
+
+# 0f3eed9c48f84ff28139ffff813237c8
+#: ../../contents01.rst:1
+msgid "URL"
+msgstr "URL"
+
+# 74e7d3d30bba4357856858a5ea02e284
+#: ../../contents01.rst:1
+msgid "License"
+msgstr "ライセンス"
+
+# efd629514895407298007745c2f9430c
+#: ../../contents01.rst:1
+msgid "CGI"
+msgstr "CGI"
+
+# 053833ef31424c30bf19a7660eb1f905
+#: ../../contents01.rst:1
+msgid "http://search.cpan.org/~markstos/CGI.pm-3.63/lib/CGI.pm"
+msgstr "http://search.cpan.org/~markstos/CGI.pm-3.63/lib/CGI.pm"
+
+# 2b24425302fb4080bc8951ed33088205
+# a3a71c13d86a48cd9d904149ff14b2d9
+# 0096afc8ce8d4b71b54f339dc7c04f3a
+# d7a91975f31945cabd67c115c04d5b88
+#: ../../contents01.rst:1
+msgid "Artistic License 2.0"
+msgstr "Artistic License 2.0"
+
+# b5c1cd3c6b0246a3a0da3897ef5bf65b
+#: ../../contents01.rst:1
+msgid "JSON::PP"
+msgstr "JSON::PP"
+
+# ad6dd810048c41bbae686767b854c83e
+#: ../../contents01.rst:1
+msgid "http://search.cpan.org/~makamaka/JSON-PP-2.27202/lib/JSON/PP.pm"
+msgstr "http://search.cpan.org/~makamaka/JSON-PP-2.27202/lib/JSON/PP.pm"
+
+# 66266445b68942a58a79c4181591b538
+#: ../../contents01.rst:1
+msgid "YAML"
+msgstr "YAML"
+
+# 5ebea0b307e841fb890c8970147e9030
+#: ../../contents01.rst:1
+msgid "http://search.cpan.org/~mstrout/YAML-0.84/lib/YAML.pm"
+msgstr "http://search.cpan.org/~mstrout/YAML-0.84/lib/YAML.pm"
+
+# ea8bb3056b0c47ebb4635b35fb6d1afb
+#: ../../contents01.rst:1
+msgid "ExtUtils::MakeMaker"
+msgstr "ExtUtils::MakeMaker"
+
+# 62bee84b21194383a9f1bfba754b4824
+#: ../../contents01.rst:1
+msgid ""
+"http://search.cpan.org/~bingos/ExtUtils-MakeMaker-6.66/lib/ExtUtils/"
+"MakeMaker.pm"
+msgstr ""
+"http://search.cpan.org/~bingos/ExtUtils-MakeMaker-6.66/lib/ExtUtils/"
+"MakeMaker.pm"
+
+# a379e736902f41ca951b881bb435bdac
+#: ../../contents01.rst:74
+msgid "To install some components, run the following commands."
+msgstr "依存しているPerlモジュールを例えば次の方法でインストールします。"
+
+# 57d77c271efc442a8edaa2e9496f7d61
+#: ../../contents01.rst:87
+msgid ""
+"You can access glNetViz sample pages with a web browser that supported WebGL."
+msgstr ""
+"以上でインストールは完了です。WebGL対応のブラウザ(例えばChrome)を用いてサンプ"
+"ルページへアクセスし、動作を確認してみてください。"
+
+# 7f7b8485ad514ff8ad7226e1031b6a2f
+#: ../../contents01.rst:102
+msgid "glNetViz Components"
+msgstr "glNetVIz を構成するファイルの概要"
+
+# 8fd9256b27ca463fb7020f4934a5fd87
+#: ../../contents01.rst:1
+msgid "Location"
+msgstr "格納先"
+
+# a7cb9ca30deb48caa616feececea199e
+#: ../../contents01.rst:1
+msgid "Description"
+msgstr "概要"
+
+# dcc6fd95972b4a2fb2a64be717e16ad6
+#: ../../contents01.rst:1
+msgid "docs/*"
+msgstr "docs/*"
+
+# 03b4123222484651bbfba617708660dc
+#: ../../contents01.rst:1
+msgid "users manual"
+msgstr "ユーザーズガイド"
+
+# 44cd38c0baf2406594fbed610aee0af9
+#: ../../contents01.rst:1
+msgid "examples/*"
+msgstr "examples/*"
+
+# 33e4587f0d9b48bc942f815859fea9eb
+#: ../../contents01.rst:1
+msgid "sample scripts and HTML files"
+msgstr "サンプルスクリプトとHTMLファイル"
+
+# fda82df86b44468385e6d04756764bb9
+#: ../../contents01.rst:1
+msgid "lib/{js,css,cgi}/*"
+msgstr "lib/{js,css,cgi}/*"
+
+# a349a0818ee947da8adf3877f64ca5b1
+#: ../../contents01.rst:1
+msgid ""
+"common libraries and dependent libraries (`jQuery <http://jquery.com/>`_ , "
+"`jQuery UI <http://jqueryui.com/>`_ , `jquery-sprintf <https://github.com/"
+"azatoth/jquery-sprintf>`_ , `minMatrix <http://wgld.org/d/library/l001."
+"html>`_ )"
+msgstr ""
+"共通ライブラリと依存ライブラリ (`jQuery <http://jquery.com/>`_ , `jQuery UI "
+"<http://jqueryui.com/>`_ , `jquery-sprintf <https://github.com/azatoth/"
+"jquery-sprintf>`_ , `minMatrix <http://wgld.org/d/library/l001.html>`_ )"
+
+# b1b7124126fa44b5833bf381a7809695
+#: ../../contents01.rst:1
+msgid "lib/textures/*"
+msgstr "lib/textures/*"
+
+# 73d29aa339fd421ead32367dbb229b19
+#: ../../contents01.rst:1
+msgid "texture files"
+msgstr "テクスチャファイル"
+
+# 6d589d959b7446cb98c70af049ee7a38
+#: ../../contents01.rst:1
+msgid "lib/conf/*"
+msgstr "lib/conf/*"
+
+# f7b545ccbe714a6fa5eca673ae7589e2
+#: ../../contents01.rst:1
+msgid "configuration files"
+msgstr "各種設定ファイル"
+
+# de12faf27ba8475098e93988c8e1d35a
+#: ../../contents01.rst:1
+msgid ".htaccess"
+msgstr ".htaccess"
+
+# 7aeb9cbd98434caa97b3d60f72894c37
+#: ../../contents01.rst:1
+msgid "apache configuration file"
+msgstr "Apacheの設定ファイルのサンプル"

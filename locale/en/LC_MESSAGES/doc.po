@@ -1,0 +1,158 @@
+# English translations for glNetViz package.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-05 18:23\n"
+"PO-Revision-Date: 2013-05-05 15:45\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 72cffb7af7dc4004b4cce6c1dc437e7d
+#: ../../doc.rst:3
+msgid "glNetViz Library Reference"
+msgstr "glNetViz Library Reference"
+
+# f8154e9a2bc4416d810deec33bc71f55
+#: ../../doc.rst:5
+msgid "This page is under construction."
+msgstr "This page is under construction."
+
+# 9d20d4009a9e41dfb86028d075ee07af
+#: ../../doc.rst:7
+msgid ":ref:`JavaScript<glnetviz-javascript>`"
+msgstr ":ref:`JavaScript<glnetviz-javascript>`"
+
+# 0221a729b7244b93bf08e1de964fd01e
+#: ../../doc.rst:8
+msgid ":ref:`Perl<glnetviz-perl>`"
+msgstr ":ref:`Perl<glnetviz-perl>`"
+
+# f151c09007b3422fbd33ff6fda49de0d
+#: ../../doc.rst:9
+msgid ":ref:`Python<glnetviz-python>`"
+msgstr ":ref:`Python<glnetviz-python>`"
+
+# 078c8e1bb8ff4f0fa1546e2d2b0da026
+#: ../../doc.rst:10
+msgid ":ref:`Ruby<glnetviz-ruby>`"
+msgstr ":ref:`Ruby<glnetviz-ruby>`"
+
+# 5d21f8b993d14f26a36e9ac4bd5347dc
+#: ../../doc.rst:11
+msgid ":ref:`C<glnetviz-c>`"
+msgstr ":ref:`C<glnetviz-c>`"
+
+# ee7d774b3a0745b5bdc442dcc23fd8cb
+#: ../../doc.rst:12
+msgid ":ref:`Configuration Files<glnetviz-config>`"
+msgstr ":ref:`Configuration Files<glnetviz-config>`"
+
+# 38e5cd26ad1d488ab0bdf96999e63d46
+#: ../../doc.rst:21
+msgid "JavaScript"
+msgstr "JavaScript"
+
+# f7a875e15c554f0b982a83120d1dc030
+#: ../../doc.rst:27
+msgid "**glNetViz.generateSphereObjects()**"
+msgstr "**glNetViz.generateSphereObjects()**"
+
+# 07ee3d1e6a1d4c8c9cd3cf520453cb78
+#: ../../doc.rst:29
+msgid ""
+"Generate sphere objects.  The parameters of sphere objects are stored in a "
+"sphader program object."
+msgstr ""
+"Generate sphere objects.  The parameters of sphere objects are stored in a "
+"sphader program object."
+
+# de10b20efa814c6295828cf6810a4b53
+#: ../../doc.rst:31
+msgid "Specification:"
+msgstr "Specification:"
+
+# 7f6a676ed33a44e6b8291cc32d8d4d80
+#: ../../doc.rst:47
+msgid "Usage example:"
+msgstr "Usage example:"
+
+# 6c9c83ce78a6405d8b41230d093dff50
+#: ../../doc.rst:62
+msgid "See Also:"
+msgstr "See Also:"
+
+# 10100f4a5a0c4887b89a88eae2fc1153
+#: ../../doc.rst:64
+msgid "glNetViz.createProgram()"
+msgstr "glNetViz.createProgram()"
+
+# b61a20913f114418ac0046aabaab37ea
+#: ../../doc.rst:65
+msgid "glNetViz.putSphere()"
+msgstr "glNetViz.putSphere()"
+
+# 4a601ff04a29405997dd4fe7f07f20bb
+#: ../../doc.rst:73
+msgid "**glNetViz.createProgram()**"
+msgstr "**glNetViz.createProgram()**"
+
+# ed61b64b1b27463b921e751bc06877e4
+# 989a4499cf014192a34609cd216c6560
+#: ../../doc.rst:75 ../../doc.rst:85
+msgid "Description:"
+msgstr "Description:"
+
+# b5873cba1bfd4ffbb4aaee6b1cf4958e
+#: ../../doc.rst:83
+msgid "**glNetViz.putSphere()**"
+msgstr "**glNetViz.putSphere()**"
+
+# 154226f71f514721958c3a8757543ef6
+#: ../../doc.rst:94
+msgid "Perl"
+msgstr "Perl"
+
+# c01f1c09a6194da8a424b37f979445e6
+#: ../../doc.rst:99
+msgid "Python"
+msgstr "Python"
+
+# 41142d1b5a454027a6ad3ea3e03d8bc3
+#: ../../doc.rst:105
+msgid "Ruby"
+msgstr "Ruby"
+
+# a1b6fee226864c8a9968de27d3dabf80
+#: ../../doc.rst:109
+msgid "C"
+msgstr "C"
+
+# ba248ef2832d4345b3450898ca882ee6
+#: ../../doc.rst:116
+msgid "Configuration Files"
+msgstr "Configuration Files"
+
+# 4ac73d6be7984aefa3c03cccf1ce457e
+#: ../../doc.rst:118
+msgid "The steps for generating WebGL Pages are as follows."
+msgstr "The steps for generating WebGL Pages are as follows."
+
+# 3786413eea5c40c297161fba504bfff7
+#: ../../doc.rst:120
+msgid "create the YAML format data."
+msgstr "create the YAML format data."
+
+# 2508021853bb4c8ea1126a7b8c8970a5
+#: ../../doc.rst:152
+msgid "refer to the YAML format data from HTML(JavaScript)."
+msgstr "refer to the YAML format data from HTML(JavaScript)."

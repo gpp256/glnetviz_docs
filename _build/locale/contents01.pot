@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 01:42\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../contents01.rst:3
+# abe9d66c35784eada0414bbf3e3a84f7
+msgid "Quick Start"
+msgstr ""
+
+#: ../../contents01.rst:18
+# 9f3259140afc44a5b871e264e6609d16
+msgid "Building and Installing"
+msgstr ""
+
+#: ../../contents01.rst:20
+# 224cfbc2acc742368f1a33660afd5ffa
+msgid "To install, run the following commands in the glNetViz directory."
+msgstr ""
+
+#: ../../contents01.rst:59
+# 3921000d89224321b8948c6d672cce7e
+msgid "Other Dependent Components"
+msgstr ""
+
+#: ../../contents01.rst:61
+# 23a56f892b6145ba8b57307bdfd373a4
+msgid "Some perl modules are needed for starting the glNetViz."
+msgstr ""
+
+#: ../../contents01.rst:1
+# cb44f183c2414a11a24698be14100621
+msgid "Component"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 0f3eed9c48f84ff28139ffff813237c8
+msgid "URL"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 74e7d3d30bba4357856858a5ea02e284
+msgid "License"
+msgstr ""
+
+#: ../../contents01.rst:1
+# efd629514895407298007745c2f9430c
+msgid "CGI"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 053833ef31424c30bf19a7660eb1f905
+msgid "http://search.cpan.org/~markstos/CGI.pm-3.63/lib/CGI.pm"
+msgstr ""
+
+#: ../../contents01.rst:1
+#: ../../contents01.rst:1
+#: ../../contents01.rst:1
+#: ../../contents01.rst:1
+# 2b24425302fb4080bc8951ed33088205
+# a3a71c13d86a48cd9d904149ff14b2d9
+# 0096afc8ce8d4b71b54f339dc7c04f3a
+# d7a91975f31945cabd67c115c04d5b88
+msgid "Artistic License 2.0"
+msgstr ""
+
+#: ../../contents01.rst:1
+# b5c1cd3c6b0246a3a0da3897ef5bf65b
+msgid "JSON::PP"
+msgstr ""
+
+#: ../../contents01.rst:1
+# ad6dd810048c41bbae686767b854c83e
+msgid "http://search.cpan.org/~makamaka/JSON-PP-2.27202/lib/JSON/PP.pm"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 66266445b68942a58a79c4181591b538
+msgid "YAML"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 5ebea0b307e841fb890c8970147e9030
+msgid "http://search.cpan.org/~mstrout/YAML-0.84/lib/YAML.pm"
+msgstr ""
+
+#: ../../contents01.rst:1
+# ea8bb3056b0c47ebb4635b35fb6d1afb
+msgid "ExtUtils::MakeMaker"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 62bee84b21194383a9f1bfba754b4824
+msgid "http://search.cpan.org/~bingos/ExtUtils-MakeMaker-6.66/lib/ExtUtils/MakeMaker.pm"
+msgstr ""
+
+#: ../../contents01.rst:74
+# a379e736902f41ca951b881bb435bdac
+msgid "To install some components, run the following commands."
+msgstr ""
+
+#: ../../contents01.rst:87
+# 57d77c271efc442a8edaa2e9496f7d61
+msgid "You can access glNetViz sample pages with a web browser that supported WebGL."
+msgstr ""
+
+#: ../../contents01.rst:102
+# 7f7b8485ad514ff8ad7226e1031b6a2f
+msgid "glNetViz Components"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 8fd9256b27ca463fb7020f4934a5fd87
+msgid "Location"
+msgstr ""
+
+#: ../../contents01.rst:1
+# a7cb9ca30deb48caa616feececea199e
+msgid "Description"
+msgstr ""
+
+#: ../../contents01.rst:1
+# dcc6fd95972b4a2fb2a64be717e16ad6
+msgid "docs/*"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 03b4123222484651bbfba617708660dc
+msgid "users manual"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 44cd38c0baf2406594fbed610aee0af9
+msgid "examples/*"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 33e4587f0d9b48bc942f815859fea9eb
+msgid "sample scripts and HTML files"
+msgstr ""
+
+#: ../../contents01.rst:1
+# fda82df86b44468385e6d04756764bb9
+msgid "lib/{js,css,cgi}/*"
+msgstr ""
+
+#: ../../contents01.rst:1
+# a349a0818ee947da8adf3877f64ca5b1
+msgid "common libraries and dependent libraries (`jQuery <http://jquery.com/>`_ , `jQuery UI <http://jqueryui.com/>`_ , `jquery-sprintf <https://github.com/azatoth/jquery-sprintf>`_ , `minMatrix <http://wgld.org/d/library/l001.html>`_ )"
+msgstr ""
+
+#: ../../contents01.rst:1
+# b1b7124126fa44b5833bf381a7809695
+msgid "lib/textures/*"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 73d29aa339fd421ead32367dbb229b19
+msgid "texture files"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 6d589d959b7446cb98c70af049ee7a38
+msgid "lib/conf/*"
+msgstr ""
+
+#: ../../contents01.rst:1
+# f7b545ccbe714a6fa5eca673ae7589e2
+msgid "configuration files"
+msgstr ""
+
+#: ../../contents01.rst:1
+# de12faf27ba8475098e93988c8e1d35a
+msgid ".htaccess"
+msgstr ""
+
+#: ../../contents01.rst:1
+# 7aeb9cbd98434caa97b3d60f72894c37
+msgid "apache configuration file"
+msgstr ""
+

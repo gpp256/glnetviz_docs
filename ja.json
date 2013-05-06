@@ -1,0 +1,53 @@
+{
+    "embeddedFonts" : [[
+        "ipam.ttf",
+        "ipag.ttf",
+        "ipagp.ttf",
+        "ipamp.ttf"
+    ]],
+    "fontsAlias" : {
+        "stdFont": "IPAPMinchoRegular",
+        "stdBold": "IPAPMinchoRegular",
+        "stdItalic": "IPAPMinchoRegular",
+        "stdBoldItalic": "IPAPMinchoRegular",
+        "stdMono": "IPAMinchoRegular",
+        "stdMonoBold": "IPAMinchoRegular",
+        "stdMonoItalic": "IPAMinchoRegular",
+        "stdMonoBoldItalic": "IPAMinchoRegular",
+        "stdSans": "IPAMinchoRegular",
+        "stdSansBold": "IPAMinchoRegular",
+        "stdSansItalic": "IPAMinchoRegular",
+        "stdSansBoldItalic": "IPAMinchoRegular"
+    },
+    "styles" : [
+        ["base" , {
+            "wordWrap": "CJK"
+        }],
+        ["literal" , {
+            "wordWrap": "None"
+        }],
+	["normal" , {
+	"fontName" : "IPAMinchoRegular"
+	}],
+	["heading1" , {
+	"fontSize": 26,
+	"borderPadding": 3,
+	"keepWithNext": true
+	}],
+	["heading2" , {
+	"fontSize": 18,
+	"borderPadding": 3,
+	"keepWithNext": true
+	}],
+	["heading3" , {
+	"fontSize": 14,
+	"borderPadding": 3,
+	"keepWithNext": true
+	}],
+	["heading4" , {
+	"fontSize": 10,
+	"borderPadding": 3,
+	"keepWithNext": true
+	}]
+    ]
+}

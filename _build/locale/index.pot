@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 01:42\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:5
+# 52101b97513a4c07879f501bc11cc75c
+msgid "The glNetViz Manual"
+msgstr ""
+
+#: ../../index.rst:7
+# 53ede53e70ff44fab2b2e1766da14a4e
+msgid "Last Update: |today|"
+msgstr ""
+
+#: ../../index.rst:10
+# ef436bc50a114c808f5de2859b878a04
+msgid "Welcome!"
+msgstr ""
+
+#: ../../index.rst:12
+# 00e2e7c185e64d4e8b4a20441137af54
+msgid "The glNetViz is a free tool for visualizing computer network topologies with WebGL."
+msgstr ""
+
+#: ../../index.rst:14
+# 8deedb91eaf54e029b0ea77ce8ca48dc
+msgid "With the abilities of real time visualizing network traffics flowing around the local network and to/from the Internet, you can manage and supervise the various network more easily and efficiently."
+msgstr ""
+
+#: ../../index.rst:21
+# 2e79e2a5a534487c9941f9dba69e9814
+msgid "Contents"
+msgstr ""
+
+#: ../../index.rst:23
+# c217f758df3a4dfa9deff2f492a35425
+msgid "Here's what's available for documentation:"
+msgstr ""
+
+#: ../../index.rst:57
+# bb073961f0304c128769c7c5639e71b2
+msgid "References"
+msgstr ""
+
+#: ../../index.rst:59
+# f81e1b5ff6734f6bb877fcd76e027361
+msgid "http://www.khronos.org/"
+msgstr ""
+
+#: ../../index.rst:60
+# 952e1e175cd24f07b4eae5a213fa91db
+msgid "http://wgld.org/"
+msgstr ""
+
+#: ../../index.rst:61
+# 705d48abc1eb46c5bffbaa18fc1a0867
+msgid "http://learningwebgl.com/blog/"
+msgstr ""
+
+#: ../../index.rst:62
+# 2a8e279b7e6c4e9bb31b4c913114abc3
+msgid "http://jquery.com/"
+msgstr ""
+
+#: ../../index.rst:63
+# 86235d1eeada4ea7a94df206326387fb
+msgid "https://github.com/azatoth/jquery-sprintf"
+msgstr ""
+
+#: ../../index.rst:64
+# f2a0d0720dff43959f9e4b3c28e95db6
+msgid "http://sphinx-doc.org/"
+msgstr ""
+
+#: ../../index.rst:65
+# e2dbc2dfcfaf420fbaa261186339538c
+msgid "http://www.mayonakanouta.com/ja/node/12"
+msgstr ""
+
+#: ../../index.rst:66
+# 5d99312629444f3a96857d758754940f
+msgid "http://www.openflow.org/"
+msgstr ""
+
+#: ../../index.rst:67
+# e1aa5c8ef925441eadbee021ea18c3de
+msgid "http://www.opennetworkingfoundation.org/"
+msgstr ""
+
+#: ../../index.rst:68
+# f9aa11fdea40425a91d98c57d33709c3
+msgid "http://www.sdncentral.com/"
+msgstr ""
+
+#: ../../index.rst:69
+# 1ec413c427e94adfa00905ae2f55b0bb
+msgid "http://www.mongodb.org/"
+msgstr ""
+
+#: ../../index.rst:70
+# c3b4b92887134412853691d7f3c51c0a
+msgid "http://fluentd.org/"
+msgstr ""
+
+#: ../../index.rst:71
+# 7ee2d06611b84d79baadb7ed16ab026d
+msgid "https://github.com/taboca/Chromeless-Ereader/blob/master/ereader.html"
+msgstr ""
+
+#: ../../index.rst:74
+# 0481d3537def4c599ca538ec7ead4d02
+msgid "Links"
+msgstr ""
+
+#: ../../index.rst:76
+# 75b329ba3db64395bd86c38be355b987
+msgid "https://github.com/gpp256/glNetViz"
+msgstr ""
+
+#: ../../index.rst:77
+# 4aba9ddb157b4be38e1bbe8835df29a3
+msgid "http://gpp256.blogspot.jp"
+msgstr ""
+
+#: ../../index.rst:80
+# d21d22d97b424349a2d7829b0bab20ee
+msgid "License"
+msgstr ""
+
+#: ../../index.rst:82
+# 8be8e8c6e16541f592d577caefb0f142
+msgid "Copyright © 2013 Yoshi"
+msgstr ""
+
+#: ../../index.rst:83
+# 4fe401a1ad0f4532b35be7e773094c42
+msgid "Distributed under the MIT License."
+msgstr ""
+
+#: ../../index.rst:86
+# 404cde36f9cd413ba23b9a3ac49315f3
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:88
+# 6c502dbb769c42db9f407580f93d5427
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:92
+# 299fc7ebb26947bd9d0b6a03682e6ed8
+msgid ":ref:`search`"
+msgstr ""
+

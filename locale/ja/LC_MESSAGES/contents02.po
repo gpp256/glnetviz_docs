@@ -1,0 +1,295 @@
+# Japanese translations for glNetViz package.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-06 23:32\n"
+"PO-Revision-Date: 2013-05-05 15:36\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# 9e6449dca39e48d5af0f75b775f10fa2
+#: ../../contents02.rst:3
+msgid "glNetViz Examples"
+msgstr "glNetViz サンプル"
+
+# 549080bdd1a24f43ba655c9478a15c88
+#: ../../contents02.rst:6
+msgid "WebGL"
+msgstr "WebGL"
+
+# e5e1da6a05e94e73b45039de17c4dd4a
+# 5182a0ef71d2437783aa27aadb360148
+#: ../../contents02.rst:30 ../../contents02.rst:49
+msgid "Image"
+msgstr "イメージ"
+
+# 09c37be05840482b837cb8874457bd9c
+# 40ed38ffcc34421f81fe74036e6c6802
+#: ../../contents02.rst:30 ../../contents02.rst:49
+msgid "Description"
+msgstr "説明"
+
+# 576893175d454d938d5943f929120ab7
+#: ../../contents02.rst:32
+msgid "**sample01:** |sample01|"
+msgstr "**sample01:** |sample01|"
+
+# c1b6beae649a47539d297d4cb7018045
+#: ../../contents02.rst:32
+msgid ""
+"Left image shows the WebGL Sample Page that was comprised of one shader "
+"program."
+msgstr "一つのシェーダプログラムを用いて作成したWebGLのサンプルページです。"
+
+# 9c22afb4185e4b67ae6331656df44c4d
+#: ../../contents02.rst:35
+msgid "supported mouse and touch events"
+msgstr ""
+"マウスイベントとタッチイベントの両方に対応しました。Android端末(4.0+Chrome "
+"Beta)からも表示したオブジェクトの操作が可能です。"
+
+# 79d6e5b3191a422da6dbae9d6c296bfa
+#: ../../contents02.rst:37
+msgid "**sample02:** |sample02|"
+msgstr "**sample02:** |sample02|"
+
+# 9e8b791a2cc946fcb2364249de2ce039
+#: ../../contents02.rst:37
+msgid ""
+"Left image shows the WebGL Sample Page that was comprised of multi shader "
+"programs."
+msgstr "複数のシェーダプログラムを用いて作成したWebGLのサンプルページです。"
+
+# 3fe74d9ad370470f8f3504e9e19c7999
+#: ../../contents02.rst:43
+msgid "Network Visualization"
+msgstr "Network Visualization"
+
+# 576893175d454d938d5943f929120ab7
+#: ../../contents02.rst:51
+#, fuzzy
+msgid "**sample03:** |sample03|"
+msgstr "**sample01:** |sample01|"
+
+# 9892b2e1e8cf47cc9d37fd14c6c95df7
+# 974204b9ba724a39ae246cf15f59167e
+# 37bc36de973c4c808d8e4afc69c3963c
+# bb5b6a900ebf4c69a29e1916c8d763e7
+#: ../../contents02.rst:51 ../../contents02.rst:60 ../../contents02.rst:68
+#: ../../contents02.rst:76
+msgid ""
+"Left image shows a virtual network topology that was generated in an "
+"OpenFlow Network."
+msgstr ""
+"OpenFlowネットワーク下で形成された仮想ネットワークの構成を見える化してみたサ"
+"ンプルです。"
+
+# f4e2461ddf134642bb383ad7bacadf66
+#: ../../contents02.rst:54
+msgid "supported keyboard events"
+msgstr "キーボードイベントに対応しました。"
+
+# 576893175d454d938d5943f929120ab7
+#: ../../contents02.rst:60
+#, fuzzy
+msgid "**sample04:** |sample04|"
+msgstr "**sample01:** |sample01|"
+
+# 14a1cbf7c86b4f3da953c2e29e786e92
+#: ../../contents02.rst:63
+msgid "The sample04 provide the following new functions."
+msgstr "sample03を改造し、次の機能に対応しました。"
+
+# 73b81707a12644de944c3d3a8e1e1f20
+#: ../../contents02.rst:65
+msgid "picking with WebGL"
+msgstr "WebGLでのPicking"
+
+# 76b25c55759344cca163e80f0cfc9a7e
+#: ../../contents02.rst:66
+msgid "displaying the infomation of selected a network device"
+msgstr "選択したネットワーク装置が持つ情報の表示"
+
+# 576893175d454d938d5943f929120ab7
+#: ../../contents02.rst:68
+#, fuzzy
+msgid "**sample05:** |sample05|"
+msgstr "**sample01:** |sample01|"
+
+# de642c04aa4d4458b5e0553fa5959bdc
+#: ../../contents02.rst:71
+msgid "The sample05 provide the following new functions."
+msgstr "sample04を改造し、次の機能に対応しました。"
+
+# 53c76038a313444ab9ab59d868e44e4c
+#: ../../contents02.rst:73
+msgid "visualizing network traffic flowing in the OpenFlow Network"
+msgstr "通信の流れの見える化"
+
+# d8e489c063e9470ebd667e797e8be41f
+#: ../../contents02.rst:74
+msgid "displaying the amount of network traffic"
+msgstr "通信量の見える化"
+
+# 576893175d454d938d5943f929120ab7
+#: ../../contents02.rst:76
+#, fuzzy
+msgid "**sample06:** |sample06|"
+msgstr "**sample01:** |sample01|"
+
+# 5da889f881e34b3489e9cb72c6b59d81
+#: ../../contents02.rst:79
+msgid "The sample06 provide the following new functions."
+msgstr "sample05を改造し、次の機能に対応しました。"
+
+# a9cda713aebc45d9806cedbc79d1c29f
+#: ../../contents02.rst:81
+msgid "moving network devices"
+msgstr "各ネットワーク装置の配置変更"
+
+# d3ac4a24dcf8451c855f68acd14b22da
+#: ../../contents02.rst:82
+msgid "rotation around the y-axis of network devices"
+msgstr "各ネットワークデバイスのY軸まわりの回転"
+
+# c3e026a9527c4d5e86cfab1de1959c10
+#: ../../contents02.rst:83
+msgid "Toggle on/off of displaying information"
+msgstr "文字情報の表示/非表示"
+
+# f457be8eab114162af79ad531b1dcbc9
+#: ../../contents02.rst:87
+msgid "Demo"
+msgstr "デモ"
+
+# 574172422c654e0eb80942d1ee9dfa8d
+#: ../../contents02.rst:89
+#, fuzzy
+msgid "`sample01 <../../../examples/sample01/sample01.html>`_"
+msgstr "`sample01 <../../glNetViz/examples/sample01/sample01.html>`_"
+
+# e37df627898c4e119b4b5a202902cb51
+#: ../../contents02.rst:90
+#, fuzzy
+msgid "`sample02 <../../../examples/sample02/sample02.html>`_"
+msgstr "`sample02 <../../glNetViz/examples/sample02/sample02.html>`_"
+
+# 80b65216008f457dbb3b0366f17c1043
+#: ../../contents02.rst:91
+#, fuzzy
+msgid "`sample03 <../../../examples/sample03/sample03.html>`_"
+msgstr "`sample03 <../../glNetViz/examples/sample03/sample03.html>`_"
+
+# 748b9723e12140ff8a366eaea3a08bf8
+#: ../../contents02.rst:92
+#, fuzzy
+msgid "`sample04 <../../../examples/sample04/sample04.html>`_"
+msgstr "`sample04 <../../glNetViz/examples/sample04/sample04.html>`_"
+
+# 93cea9cc906f47f1989b52916a960147
+#: ../../contents02.rst:93
+#, fuzzy
+msgid "`sample05 <../../../examples/sample05/sample05.html>`_"
+msgstr "`sample05 <../../glNetViz/examples/sample05/sample05.html>`_"
+
+# 574172422c654e0eb80942d1ee9dfa8d
+#: ../../contents02.rst:94
+#, fuzzy
+msgid "`sample06 <../../../examples/sample06/sample06.html>`_"
+msgstr "`sample01 <../../glNetViz/examples/sample01/sample01.html>`_"
+
+# f482ed65a5d44cf2acbfb66b6578d70d
+#: ../../contents02.rst:97
+msgid "Application Example"
+msgstr "活用事例"
+
+# 098e0183e42a4b56a3fd8017219c069f
+#: ../../contents02.rst:99
+#, fuzzy
+msgid "This contents is under construction."
+msgstr "this contents is under construction."
+
+# f65f6b96fa8643c48175d3cbf769ffe9
+#: ../../contents02.rst:101
+msgid "mongoDB + fluentd + glNetViz"
+msgstr "mongoDB + fluentd + glNetViz"
+
+# e6fbf04a4000491f949c306013af3888
+#: ../../contents02.rst:103
+msgid "nox + glNetViz"
+msgstr "nox + glNetViz"
+
+# 62e1ff3751de463fbde6a71b2707a21f
+#: ../../contents02.rst:105
+msgid "pox + glNetViz"
+msgstr "pox + glNetViz"
+
+# 5e87aa007ef245f9823ce68ab1b9cfa3
+#: ../../contents02.rst:107
+msgid "trema + glNetViz"
+msgstr "trema + glNetViz"
+
+# d5e1721c0246468fb168422b4c96702a
+#: ../../contents02.rst:109
+msgid "sDashboard + glNetViz"
+msgstr "sDashboard + glNetViz"
+
+# a0c2f0f37db84312b0417efd28fc7c8b
+#: ../../contents02.rst:111
+msgid "jqPlot + glNetViz"
+msgstr "jqPlot + glNetViz"
+
+# 14bc458ddb624e97aef0da7b8bd432ef
+#: ../../contents02.rst:113
+msgid "Vimage Jail + glNetViz"
+msgstr "Vimage Jail + glNetViz"
+
+# ecb267c7657048028d3d7c89eae07c7a
+#: ../../contents02.rst:115
+msgid "Android + PhoneGap + glNetViz"
+msgstr "Android + PhoneGap + glNetViz"
+
+# 14bc458ddb624e97aef0da7b8bd432ef
+#: ../../contents02.rst:117
+#, fuzzy
+msgid "libgeoip + glNetViz"
+msgstr "Vimage Jail + glNetViz"
+
+# 78973f7b33b84ac497a9439042f6d0d2
+#: ../../contents02.rst:119
+msgid "Automating Dynamic Malware Analysis"
+msgstr "マルウェアの動的解析の自動化"
+
+# e4b0c7bce3084ee7a97f272c1cd13d09
+#~ msgid "**sample06:** |ruby|"
+#~ msgstr "**sample06:** |ruby|"
+
+# 4372cb32b0cd4e8f961a3d2ff3694508
+#~ msgid "**sample05:** |ruby|"
+#~ msgstr "**sample05:** |ruby|"
+
+# 42de391ce9d547f79a7be54635795d47
+#~ msgid "**sample04:** |ruby|"
+#~ msgstr "**sample04:** |ruby|"
+
+# 4932c509726d4a868d9013a644e8c395
+#~ msgid "sample06"
+#~ msgstr "sample06"
+
+# 4d03e654a51648e8b42f6c87f6c3deb5
+#~ msgid "Sorry, sample06 is under construction."
+#~ msgstr "Sorry, sample06 is under construction."
+
+# a08834cd01284a36a9ddeef9d6db064d
+#~ msgid "**sample03:** |ruby|"
+#~ msgstr "**sample03:** |ruby|"

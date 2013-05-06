@@ -1,0 +1,689 @@
+# English translations for glNetViz package.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 01:41\n"
+"PO-Revision-Date: 2013-05-05 15:45\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 767810e1a2c041a79e0adff5a24ee1fa
+#: ../../indexPdf.rst:3
+msgid "glNetViz Users Manual"
+msgstr ""
+
+# bbc57e81dbf64cf7b97d44b3a4c1c794
+#: ../../indexPdf.rst:46
+msgid "###Page###"
+msgstr "###Page###"
+
+# 02733bc277b44c338de535b6f3af052a
+#: ../../indexPdf.rst:12
+msgid "Welcome!"
+msgstr ""
+
+# ac28e9a3c8794da994ec1ee4431228b8
+#: ../../indexPdf.rst:14
+msgid ""
+"The glNetViz is a free tool for visualizing computer network topologies with "
+"WebGL."
+msgstr ""
+
+# f8b6fa51932d47128bc3a7fdb35d28a0
+#: ../../indexPdf.rst:16
+msgid ""
+"With the abilities of real time visualizing network traffics flowing around "
+"the local network and to/from the Internet, you can manage and supervise the "
+"various network more easily and efficiently."
+msgstr ""
+
+# 6cb8cdb2e0014a688eca21001cb72ea7
+#: ../../contents01.rst:3
+msgid "Quick Start"
+msgstr "Quick Start"
+
+# 253e6fc8a35c4543a7a570dd02d05ae9
+#: ../../contents01.rst:18
+msgid "Building and Installing"
+msgstr "Building and Installing"
+
+# a0a19f3da9844cf784908a49958a3387
+#: ../../contents01.rst:20
+msgid "To install, run the following commands in the glNetViz directory."
+msgstr "To install, run the following commands in the glNetViz directory."
+
+# 1dc7782ff2e84cb19ff60201258e59b4
+#: ../../contents01.rst:59
+msgid "Other Dependent Components"
+msgstr "Other Dependent Components"
+
+# 1f441d75820641b2a056dd3731e3f36b
+#: ../../contents01.rst:61
+msgid "Some perl modules are needed for starting the glNetViz."
+msgstr "Some perl modules are needed for starting the glNetViz."
+
+# c3306e7b2ec44857b79e13e1b6685cca
+#: ../../contents01.rst:1
+msgid "Component"
+msgstr "Component"
+
+# bca54428d8434bc6b5c7283aa39aa605
+#: ../../contents01.rst:1
+msgid "URL"
+msgstr "URL"
+
+# 1530cdc6063344ceb281579584626856
+#: ../../contents01.rst:1
+msgid "License"
+msgstr "License"
+
+# f83cbb9aef18456eb482b3a6ed6a9a83
+#: ../../contents01.rst:1
+msgid "CGI"
+msgstr "CGI"
+
+# ca304c8852a4412e9272b7bd4ff277d4
+#: ../../contents01.rst:1
+msgid "http://search.cpan.org/~markstos/CGI.pm-3.63/lib/CGI.pm"
+msgstr "http://search.cpan.org/~markstos/CGI.pm-3.63/lib/CGI.pm"
+
+# 91549dae25c043f691643e89fc099099
+# a0896f4375da48919e0215be8fde2111
+# 3d806cafacc94d7eb5645d8f65dab7e6
+# 7cfaa34388c54c65a2fa2a156cee5862
+#: ../../contents01.rst:1
+msgid "Artistic License 2.0"
+msgstr "Artistic License 2.0"
+
+# 6be8be8b44134257b0fb6ed0983d7767
+#: ../../contents01.rst:1
+msgid "JSON::PP"
+msgstr "JSON::PP"
+
+# f32865f56e2b4792a10f60904990ca14
+#: ../../contents01.rst:1
+msgid "http://search.cpan.org/~makamaka/JSON-PP-2.27202/lib/JSON/PP.pm"
+msgstr "http://search.cpan.org/~makamaka/JSON-PP-2.27202/lib/JSON/PP.pm"
+
+# 133201731fa24a7cb38cfe9008414e2c
+#: ../../contents01.rst:1
+msgid "YAML"
+msgstr "YAML"
+
+# c1b88cbc2201423ba35fc3547bd2879f
+#: ../../contents01.rst:1
+msgid "http://search.cpan.org/~mstrout/YAML-0.84/lib/YAML.pm"
+msgstr "http://search.cpan.org/~mstrout/YAML-0.84/lib/YAML.pm"
+
+# 93ae6193e8134ee085e0c82b20ed6152
+#: ../../contents01.rst:1
+msgid "ExtUtils::MakeMaker"
+msgstr "ExtUtils::MakeMaker"
+
+# 4649308bd8c64c0aa6c9619ea14025ad
+#: ../../contents01.rst:1
+msgid ""
+"http://search.cpan.org/~bingos/ExtUtils-MakeMaker-6.66/lib/ExtUtils/"
+"MakeMaker.pm"
+msgstr ""
+"http://search.cpan.org/~bingos/ExtUtils-MakeMaker-6.66/lib/ExtUtils/"
+"MakeMaker.pm"
+
+# 8bc6be12583a4c71a24a892f0e53b97a
+#: ../../contents01.rst:74
+msgid "To install some components, run the following commands."
+msgstr "To install some components, run the following commands."
+
+# 2c211d6903f3482db5ddb788d563d665
+#: ../../contents01.rst:87
+msgid ""
+"You can access glNetViz sample pages with a web browser that supported WebGL."
+msgstr ""
+"You can access glNetViz sample pages with a web browser that supported WebGL."
+
+# 51ad8ad02bc54ca2b140f3b39e86d14a
+#: ../../contents01.rst:102
+msgid "glNetViz Components"
+msgstr "glNetViz Components"
+
+# 19f7273aa27d4b608cdcdde97a7bcbaf
+#: ../../contents01.rst:1
+msgid "Location"
+msgstr "Location"
+
+# afa5272e71b94fbb9a66fc9e44e695f6
+# d3a3c589c17846b884cead3da7650f21
+# cb55c7e1370643ea96c22d9aa9265763
+# 1defc0ead9e1498b8cb7de0e1d778841
+#: ../../contents01.rst:1 ../../contents02.rst:30 ../../contents02.rst:49
+#: ../../history.rst:1
+msgid "Description"
+msgstr "Description"
+
+# d44a183863a84eb99f3a131930e64e08
+#: ../../contents01.rst:1
+msgid "docs/*"
+msgstr ""
+
+# 8ad5069c661a4c7d88ec63b3ce66b635
+#: ../../contents01.rst:1
+msgid "users manual"
+msgstr ""
+
+# ccf3042827bd453a986f639863a64fba
+#: ../../contents01.rst:1
+msgid "examples/*"
+msgstr "examples/*"
+
+# 36cf90accaad49a2a266f91d0d8ca2cb
+#: ../../contents01.rst:1
+msgid "sample scripts and HTML files"
+msgstr "sample scripts and HTML files"
+
+# a38e2040ebd041b18b5cdcdacfcbcb0d
+#: ../../contents01.rst:1
+msgid "lib/{js,css,cgi}/*"
+msgstr "lib/{js,css,cgi}/*"
+
+# 5eb29f1a0cd4434bbb8317f3b1a4d9b6
+#: ../../contents01.rst:1
+msgid ""
+"common libraries and dependent libraries (`jQuery <http://jquery.com/>`_ , "
+"`jQuery UI <http://jqueryui.com/>`_ , `jquery-sprintf <https://github.com/"
+"azatoth/jquery-sprintf>`_ , `minMatrix <http://wgld.org/d/library/l001."
+"html>`_ )"
+msgstr ""
+"common libraries and dependent libraries (`jQuery <http://jquery.com/>`_ , "
+"`jQuery UI <http://jqueryui.com/>`_ , `jquery-sprintf <https://github.com/"
+"azatoth/jquery-sprintf>`_ , `minMatrix <http://wgld.org/d/library/l001."
+"html>`_ )"
+
+# 2d1df239ea72499ab54573069f90ca60
+#: ../../contents01.rst:1
+#, fuzzy
+msgid "lib/textures/*"
+msgstr "lib/textures"
+
+# 7a088dc3035c462a929fb03e502e04ef
+#: ../../contents01.rst:1
+msgid "texture files"
+msgstr "texture files"
+
+# 1bc59834cb0c45aa9d18818eaf9bd2b0
+#: ../../contents01.rst:1
+#, fuzzy
+msgid "lib/conf/*"
+msgstr "lib/conf"
+
+# 0c7c61b397834fa788a567f13b10df7b
+#: ../../contents01.rst:1
+msgid "configuration files"
+msgstr "configuration files"
+
+# 7b13b044afc246bca79a09bcb616dca9
+#: ../../contents01.rst:1
+msgid ".htaccess"
+msgstr ".htaccess"
+
+# 551d9cba4cbc47c88e162333470ece22
+#: ../../contents01.rst:1
+msgid "apache configuration file"
+msgstr "apache configuration file"
+
+# 0cb60466297a457eae85e0227913cddb
+#: ../../contents02.rst:3
+msgid "glNetViz Examples"
+msgstr "glNetViz Examples"
+
+# 6d6a69ae9fa3459f99314aad09ddf412
+#: ../../contents02.rst:6
+msgid "WebGL"
+msgstr "WebGL"
+
+# 9331e221d56b454d80037bdac3113ac0
+# 51860169776e40a59f8941ca6b2a4c93
+#: ../../contents02.rst:30 ../../contents02.rst:49
+msgid "Image"
+msgstr "Image"
+
+# cc8aeb2dd14a420188946633407b1c23
+#: ../../contents02.rst:32
+msgid "**sample01:** |sample01|"
+msgstr "**sample01:** |sample01|"
+
+# 72a9589fcd3946f8aec4b7363486e715
+#: ../../contents02.rst:32
+msgid ""
+"Left image shows the WebGL Sample Page that was comprised of one shader "
+"program."
+msgstr ""
+"Left image shows the WebGL Sample Page that was comprised of one shader "
+"program."
+
+# b7c9a2f672de42c8ad1f1cec14a0f6ba
+#: ../../contents02.rst:35
+msgid "supported mouse and touch events"
+msgstr "supported mouse and touch events"
+
+# e1ef260c38584e49a04e3cbfcef23cfa
+#: ../../contents02.rst:37
+msgid "**sample02:** |sample02|"
+msgstr "**sample02:** |sample02|"
+
+# 9252eb0a69f04a5d810ed92fc77bdb46
+#: ../../contents02.rst:37
+msgid ""
+"Left image shows the WebGL Sample Page that was comprised of multi shader "
+"programs."
+msgstr ""
+"Left image shows the WebGL Sample Page that was comprised of multi shader "
+"programs."
+
+# 1823169ff0f040aca0fc33dfbaef3686
+#: ../../contents02.rst:43
+msgid "Network Visualization"
+msgstr "Network Visualization"
+
+# cc8aeb2dd14a420188946633407b1c23
+#: ../../contents02.rst:51
+#, fuzzy
+msgid "**sample03:** |sample03|"
+msgstr "**sample01:** |sample01|"
+
+# 2c4714562f734af7ba9c37bf83efa668
+# 9b21a6e8bb5448259ff5bcc261e67daf
+# 280e78e78cda46e19f153c987176096c
+# f898e38d2b72474991ffbb0b02ac504d
+#: ../../contents02.rst:51 ../../contents02.rst:60 ../../contents02.rst:68
+#: ../../contents02.rst:76
+msgid ""
+"Left image shows a virtual network topology that was generated in an "
+"OpenFlow Network."
+msgstr ""
+"Left image shows a virtual network topology that was generated in an "
+"OpenFlow Network."
+
+# 9bbd56e2af1c44e9b5658983c612a998
+#: ../../contents02.rst:54
+msgid "supported keyboard events"
+msgstr "supported keyboard events"
+
+# cc8aeb2dd14a420188946633407b1c23
+#: ../../contents02.rst:60
+#, fuzzy
+msgid "**sample04:** |sample04|"
+msgstr "**sample01:** |sample01|"
+
+# bc623f72c1394622b06672fc7eccc976
+#: ../../contents02.rst:63
+msgid "The sample04 provide the following new functions."
+msgstr "The sample04 provide the following new functions."
+
+# 4a1de028a2b14bd19a129d90477b32bc
+#: ../../contents02.rst:65
+msgid "picking with WebGL"
+msgstr "picking with WebGL"
+
+# 0d1d4c0a105f460ea8deac48ad8d4524
+#: ../../contents02.rst:66
+msgid "displaying the infomation of selected a network device"
+msgstr "displaying the infomation of selected a network device"
+
+# cc8aeb2dd14a420188946633407b1c23
+#: ../../contents02.rst:68
+#, fuzzy
+msgid "**sample05:** |sample05|"
+msgstr "**sample01:** |sample01|"
+
+# 28a9d5949ac745729b9566dbbd993f25
+#: ../../contents02.rst:71
+msgid "The sample05 provide the following new functions."
+msgstr "The sample05 provide the following new functions."
+
+# 563763056f494cfa8a76c96eff3d6aff
+#: ../../contents02.rst:73
+msgid "visualizing network traffic flowing in the OpenFlow Network"
+msgstr "visualizing network traffic flowing in the OpenFlow Network"
+
+# 6cd9d70de41b41d1a21aefea887c5e72
+#: ../../contents02.rst:74
+msgid "displaying the amount of network traffic"
+msgstr "displaying the amount of network traffic"
+
+# cc8aeb2dd14a420188946633407b1c23
+#: ../../contents02.rst:76
+#, fuzzy
+msgid "**sample06:** |sample06|"
+msgstr "**sample01:** |sample01|"
+
+# 12d4d475440a4dd683d83a8100ffb3d6
+#: ../../contents02.rst:79
+msgid "The sample06 provide the following new functions."
+msgstr "The sample06 provide the following new functions."
+
+# 0776a4be799f4f3fb10ef69853e17114
+#: ../../contents02.rst:81
+msgid "moving network devices"
+msgstr "moving network devices"
+
+# 0d90defd6ac4481099fcfd781c483d4f
+#: ../../contents02.rst:82
+msgid "rotation around the y-axis of network devices"
+msgstr "rotation around the y-axis of network devices"
+
+# 37fbd8c5ed424aafa3be6b5421b5f7aa
+#: ../../contents02.rst:83
+msgid "Toggle on/off of displaying information"
+msgstr "Toggle on/off of displaying information"
+
+# 0ec6caa611294b43932e6dc7652283a8
+#: ../../contents02.rst:87
+msgid "Demo"
+msgstr "Demo"
+
+# 38ad9ff0730b45abaf2219f8fc7bd225
+#: ../../contents02.rst:89
+#, fuzzy
+msgid "`sample01 <../../../examples/sample01/sample01.html>`_"
+msgstr "`sample01 <../../glNetViz/examples/sample01/sample01.html>`_"
+
+# 30c30bf170794ef7a4f884dde4ebc810
+#: ../../contents02.rst:90
+#, fuzzy
+msgid "`sample02 <../../../examples/sample02/sample02.html>`_"
+msgstr "`sample02 <../../glNetViz/examples/sample02/sample02.html>`_"
+
+# 09d8b0a4d8484cea80164147bc0bf225
+#: ../../contents02.rst:91
+#, fuzzy
+msgid "`sample03 <../../../examples/sample03/sample03.html>`_"
+msgstr "`sample03 <../../glNetViz/examples/sample03/sample03.html>`_"
+
+# 0e66815c112645bfb00a54a29003ac4f
+#: ../../contents02.rst:92
+#, fuzzy
+msgid "`sample04 <../../../examples/sample04/sample04.html>`_"
+msgstr "`sample04 <../../glNetViz/examples/sample04/sample04.html>`_"
+
+# f5676b2e47eb44bba969a9496e99124f
+#: ../../contents02.rst:93
+#, fuzzy
+msgid "`sample05 <../../../examples/sample05/sample05.html>`_"
+msgstr "`sample05 <../../glNetViz/examples/sample05/sample05.html>`_"
+
+# 38ad9ff0730b45abaf2219f8fc7bd225
+#: ../../contents02.rst:94
+#, fuzzy
+msgid "`sample06 <../../../examples/sample06/sample06.html>`_"
+msgstr "`sample01 <../../glNetViz/examples/sample01/sample01.html>`_"
+
+# 31cdf46967954817bdb0605ba6442ae6
+#: ../../contents02.rst:97
+msgid "Application Example"
+msgstr "Application Example"
+
+# dccf589f2c764541a7f0e768c36ae504
+#: ../../contents02.rst:99
+#, fuzzy
+msgid "This contents is under construction."
+msgstr "this contents is under construction."
+
+# 0d5c1aa468d448aab82bc472b6fffb58
+#: ../../contents02.rst:101
+msgid "mongoDB + fluentd + glNetViz"
+msgstr "mongoDB + fluentd + glNetViz"
+
+# 347c01747edf4313abffebd9dcc23ae2
+#: ../../contents02.rst:103
+msgid "nox + glNetViz"
+msgstr "nox + glNetViz"
+
+# 3d596271ae32468fa24bff8b6fef7446
+#: ../../contents02.rst:105
+msgid "pox + glNetViz"
+msgstr "pox + glNetViz"
+
+# 5be05e2d127a4c018834cae1de75383b
+#: ../../contents02.rst:107
+msgid "trema + glNetViz"
+msgstr "trema + glNetViz"
+
+# caa3d86309c3477bbdb3fe14235746eb
+#: ../../contents02.rst:109
+msgid "sDashboard + glNetViz"
+msgstr "sDashboard + glNetViz"
+
+# 74ab2ae5cd7445079477692d1b23a766
+#: ../../contents02.rst:111
+msgid "jqPlot + glNetViz"
+msgstr "jqPlot + glNetViz"
+
+# fdf3803b2dcd4912b09e86a3a3adc0c3
+#: ../../contents02.rst:113
+msgid "Vimage Jail + glNetViz"
+msgstr "Vimage Jail + glNetViz"
+
+# d40a8cced4b648be85dd0303bbde1f4e
+#: ../../contents02.rst:115
+msgid "Android + PhoneGap + glNetViz"
+msgstr "Android + PhoneGap + glNetViz"
+
+# fdf3803b2dcd4912b09e86a3a3adc0c3
+#: ../../contents02.rst:117
+#, fuzzy
+msgid "libgeoip + glNetViz"
+msgstr "Vimage Jail + glNetViz"
+
+# 0cc8c58b05c84365bcff4d9f454822d3
+#: ../../contents02.rst:119
+msgid "Automating Dynamic Malware Analysis"
+msgstr ""
+
+# 767810e1a2c041a79e0adff5a24ee1fa
+#: ../../doc.rst:3
+msgid "glNetViz Library Reference"
+msgstr "glNetViz Library Reference"
+
+# d4280da941ad4544a489727f766ee531
+#: ../../doc.rst:5
+msgid "This page is under construction."
+msgstr "This page is under construction."
+
+# 62dbca078a8f4e8bbd4c60707ef10386
+#: ../../doc.rst:7
+msgid ":ref:`JavaScript<glnetviz-javascript>`"
+msgstr ":ref:`JavaScript<glnetviz-javascript>`"
+
+# 81530141044f48fe9389583ba5c80b72
+#: ../../doc.rst:8
+msgid ":ref:`Perl<glnetviz-perl>`"
+msgstr ":ref:`Perl<glnetviz-perl>`"
+
+# b134580e8b3244239bcb819b6465dde8
+#: ../../doc.rst:9
+msgid ":ref:`Python<glnetviz-python>`"
+msgstr ":ref:`Python<glnetviz-python>`"
+
+# 544f68680b3d4e12af26fbb49791fbf6
+#: ../../doc.rst:10
+msgid ":ref:`Ruby<glnetviz-ruby>`"
+msgstr ":ref:`Ruby<glnetviz-ruby>`"
+
+# d4941558893c486ba7b88b9fcd0867e0
+#: ../../doc.rst:11
+msgid ":ref:`C<glnetviz-c>`"
+msgstr ":ref:`C<glnetviz-c>`"
+
+# 6663fb0ef8814119b682d6d917c213b9
+#: ../../doc.rst:12
+msgid ":ref:`Configuration Files<glnetviz-config>`"
+msgstr ":ref:`Configuration Files<glnetviz-config>`"
+
+# b871f2649e43448b9c49cbfc7a244311
+#: ../../doc.rst:21
+msgid "JavaScript"
+msgstr "JavaScript"
+
+# f468ed9d2c344ed1a554674d6804add1
+#: ../../doc.rst:27
+msgid "**glNetViz.generateSphereObjects()**"
+msgstr "**glNetViz.generateSphereObjects()**"
+
+# 5def32b7a5104bb5a36d5dc646701b01
+#: ../../doc.rst:29
+msgid ""
+"Generate sphere objects.  The parameters of sphere objects are stored in a "
+"sphader program object."
+msgstr ""
+"Generate sphere objects.  The parameters of sphere objects are stored in a "
+"sphader program object."
+
+# 7240baa919964c3799d96a3be3aab860
+#: ../../doc.rst:31
+msgid "Specification:"
+msgstr "Specification:"
+
+# ea1629ad3bd2439184168f371dbbbf36
+#: ../../doc.rst:47
+msgid "Usage example:"
+msgstr "Usage example:"
+
+# 2d19ca4b76384334bfa8c0aa5f79ea2f
+#: ../../doc.rst:62
+msgid "See Also:"
+msgstr "See Also:"
+
+# 46c1930d47f544dcaf9d95fa8f9c6f02
+#: ../../doc.rst:64
+msgid "glNetViz.createProgram()"
+msgstr "glNetViz.createProgram()"
+
+# b07faf18e5be4e6a83f739f2564f52f6
+#: ../../doc.rst:65
+msgid "glNetViz.putSphere()"
+msgstr "glNetViz.putSphere()"
+
+# bd3c48b592594e69baeca84adfb91da2
+#: ../../doc.rst:73
+msgid "**glNetViz.createProgram()**"
+msgstr "**glNetViz.createProgram()**"
+
+# 4ef3d5de6e1c4669b3c44463e1e0e6e1
+# ed2ce6bcfb75421a9470a2fb61495c2f
+#: ../../doc.rst:75 ../../doc.rst:85
+msgid "Description:"
+msgstr "Description:"
+
+# 9d39799373504d87b7f19081b81ccee7
+#: ../../doc.rst:83
+msgid "**glNetViz.putSphere()**"
+msgstr "**glNetViz.putSphere()**"
+
+# 88cfed6c518f4ababbe0ca2dbd97afc5
+#: ../../doc.rst:94
+msgid "Perl"
+msgstr "Perl"
+
+# f882104cc3df470ea3c531e370074538
+#: ../../doc.rst:99
+msgid "Python"
+msgstr "Python"
+
+# cba7a5a6ec914e07bec4d77e44dc6aae
+#: ../../doc.rst:105
+msgid "Ruby"
+msgstr "Ruby"
+
+# ce9a08b90ffb4cf8b03a485ad6da5b11
+#: ../../doc.rst:109
+msgid "C"
+msgstr "C"
+
+# b0f43ca07eef401bb745d1d239e4e9f2
+#: ../../doc.rst:116
+msgid "Configuration Files"
+msgstr "Configuration Files"
+
+# e1adee1d143a4b71a4bf20e5c3ffd8ed
+#: ../../doc.rst:118
+msgid "The steps for generating WebGL Pages are as follows."
+msgstr "The steps for generating WebGL Pages are as follows."
+
+# 3ce3055befad47c19c4c266c7ddcd6cb
+#: ../../doc.rst:120
+msgid "create the YAML format data."
+msgstr "create the YAML format data."
+
+# f5345dd8941449569195731adc61bf69
+#: ../../doc.rst:152
+msgid "refer to the YAML format data from HTML(JavaScript)."
+msgstr "refer to the YAML format data from HTML(JavaScript)."
+
+# 681a12e0d04b479ebee139e179b2da75
+#: ../../history.rst:3
+msgid "History"
+msgstr "History"
+
+# ef70fe15015045c68f5c8c2b1dcbd4aa
+#: ../../history.rst:1
+msgid "Version"
+msgstr "Version"
+
+# 0f695e3325454f8dabcbcd7f4d021ed5
+#: ../../history.rst:1
+msgid "Date"
+msgstr "Date"
+
+# 9c6749b69b164042b8b63e5b66b49e4d
+#: ../../history.rst:1
+msgid "0.9.0"
+msgstr "0.9.0"
+
+# 01fad445a4df452096c05825d27b8c63
+#: ../../history.rst:1
+#, fuzzy
+msgid "07-May-2013"
+msgstr "06-May-2013"
+
+# d461cdac4f7d430da314a0907cc4b330
+#: ../../history.rst:1
+msgid "first release."
+msgstr "first release."
+
+# cab933afb2514759b4a799b18e8ab409
+#~ msgid "glNetViz"
+#~ msgstr "glNetViz"
+
+# b6202690af2a4844a4ccc4a38f2c53ed
+#~ msgid "**sample03:** |ruby|"
+#~ msgstr "**sample03:** |ruby|"
+
+# 0001d9946ace4951be37786328c83b4f
+#~ msgid "**sample04:** |ruby|"
+#~ msgstr "**sample04:** |ruby|"
+
+# 6a4eaa563b494a72ba10e917f92b1427
+#~ msgid "**sample05:** |ruby|"
+#~ msgstr "**sample05:** |ruby|"
+
+# 65c00fb5a30d45b5b74c87ee0f1e7ed3
+#~ msgid "**sample06:** |ruby|"
+#~ msgstr "**sample06:** |ruby|"
+
+# 945343eb1b6e41de9f2a6fd6aa16709d
+#~ msgid "sample06"
+#~ msgstr "sample06"
+
+# b12c8c5586f343b2bc730dafa11555ea
+#~ msgid "Sorry, sample06 is under construction."
+#~ msgstr "Sorry, sample06 is under construction."

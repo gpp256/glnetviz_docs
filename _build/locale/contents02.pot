@@ -1,0 +1,253 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 01:42\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../contents02.rst:3
+# 9e6449dca39e48d5af0f75b775f10fa2
+msgid "glNetViz Examples"
+msgstr ""
+
+#: ../../contents02.rst:6
+# 549080bdd1a24f43ba655c9478a15c88
+msgid "WebGL"
+msgstr ""
+
+#: ../../contents02.rst:30
+#: ../../contents02.rst:49
+# e5e1da6a05e94e73b45039de17c4dd4a
+# e5e1da6a05e94e73b45039de17c4dd4a
+msgid "Image"
+msgstr ""
+
+#: ../../contents02.rst:30
+#: ../../contents02.rst:49
+# 09c37be05840482b837cb8874457bd9c
+# 09c37be05840482b837cb8874457bd9c
+msgid "Description"
+msgstr ""
+
+#: ../../contents02.rst:32
+# 576893175d454d938d5943f929120ab7
+msgid "**sample01:** |sample01|"
+msgstr ""
+
+#: ../../contents02.rst:32
+# c1b6beae649a47539d297d4cb7018045
+msgid "Left image shows the WebGL Sample Page that was comprised of one shader program."
+msgstr ""
+
+#: ../../contents02.rst:35
+# 9c22afb4185e4b67ae6331656df44c4d
+msgid "supported mouse and touch events"
+msgstr ""
+
+#: ../../contents02.rst:37
+# 79d6e5b3191a422da6dbae9d6c296bfa
+msgid "**sample02:** |sample02|"
+msgstr ""
+
+#: ../../contents02.rst:37
+# 9e8b791a2cc946fcb2364249de2ce039
+msgid "Left image shows the WebGL Sample Page that was comprised of multi shader programs."
+msgstr ""
+
+#: ../../contents02.rst:43
+# 3fe74d9ad370470f8f3504e9e19c7999
+msgid "Network Visualization"
+msgstr ""
+
+#: ../../contents02.rst:51
+# 576893175d454d938d5943f929120ab7
+msgid "**sample03:** |sample03|"
+msgstr ""
+
+#: ../../contents02.rst:51
+#: ../../contents02.rst:60
+#: ../../contents02.rst:68
+#: ../../contents02.rst:76
+# 9892b2e1e8cf47cc9d37fd14c6c95df7
+# 9892b2e1e8cf47cc9d37fd14c6c95df7
+# 9892b2e1e8cf47cc9d37fd14c6c95df7
+# 9892b2e1e8cf47cc9d37fd14c6c95df7
+msgid "Left image shows a virtual network topology that was generated in an OpenFlow Network."
+msgstr ""
+
+#: ../../contents02.rst:54
+# f4e2461ddf134642bb383ad7bacadf66
+msgid "supported keyboard events"
+msgstr ""
+
+#: ../../contents02.rst:60
+# 576893175d454d938d5943f929120ab7
+msgid "**sample04:** |sample04|"
+msgstr ""
+
+#: ../../contents02.rst:63
+# 14a1cbf7c86b4f3da953c2e29e786e92
+msgid "The sample04 provide the following new functions."
+msgstr ""
+
+#: ../../contents02.rst:65
+# 73b81707a12644de944c3d3a8e1e1f20
+msgid "picking with WebGL"
+msgstr ""
+
+#: ../../contents02.rst:66
+# 76b25c55759344cca163e80f0cfc9a7e
+msgid "displaying the infomation of selected a network device"
+msgstr ""
+
+#: ../../contents02.rst:68
+# 576893175d454d938d5943f929120ab7
+msgid "**sample05:** |sample05|"
+msgstr ""
+
+#: ../../contents02.rst:71
+# de642c04aa4d4458b5e0553fa5959bdc
+msgid "The sample05 provide the following new functions."
+msgstr ""
+
+#: ../../contents02.rst:73
+# 53c76038a313444ab9ab59d868e44e4c
+msgid "visualizing network traffic flowing in the OpenFlow Network"
+msgstr ""
+
+#: ../../contents02.rst:74
+# d8e489c063e9470ebd667e797e8be41f
+msgid "displaying the amount of network traffic"
+msgstr ""
+
+#: ../../contents02.rst:76
+# e4b0c7bce3084ee7a97f272c1cd13d09
+msgid "**sample06:** |sample06|"
+msgstr ""
+
+#: ../../contents02.rst:79
+# 5da889f881e34b3489e9cb72c6b59d81
+msgid "The sample06 provide the following new functions."
+msgstr ""
+
+#: ../../contents02.rst:81
+# a9cda713aebc45d9806cedbc79d1c29f
+msgid "moving network devices"
+msgstr ""
+
+#: ../../contents02.rst:82
+# d3ac4a24dcf8451c855f68acd14b22da
+msgid "rotation around the y-axis of network devices"
+msgstr ""
+
+#: ../../contents02.rst:83
+# c3e026a9527c4d5e86cfab1de1959c10
+msgid "Toggle on/off of displaying information"
+msgstr ""
+
+#: ../../contents02.rst:87
+# f457be8eab114162af79ad531b1dcbc9
+msgid "Demo"
+msgstr ""
+
+#: ../../contents02.rst:89
+# d6f681fc58ae4dd19a7fa9e6fda6687a
+msgid "`sample01 <../../../examples/sample01/sample01.html>`_"
+msgstr ""
+
+#: ../../contents02.rst:90
+# 298ee9405f9545708afc31558d9dfbe3
+msgid "`sample02 <../../../examples/sample02/sample02.html>`_"
+msgstr ""
+
+#: ../../contents02.rst:91
+# 80b65216008f457dbb3b0366f17c1043
+msgid "`sample03 <../../../examples/sample03/sample03.html>`_"
+msgstr ""
+
+#: ../../contents02.rst:92
+# 072122f950284a7d90ce17960769b662
+msgid "`sample04 <../../../examples/sample04/sample04.html>`_"
+msgstr ""
+
+#: ../../contents02.rst:93
+# 79f66404845a482699f041f72a91b3ad
+msgid "`sample05 <../../../examples/sample05/sample05.html>`_"
+msgstr ""
+
+#: ../../contents02.rst:94
+# 80b65216008f457dbb3b0366f17c1043
+msgid "`sample06 <../../../examples/sample06/sample06.html>`_"
+msgstr ""
+
+#: ../../contents02.rst:97
+# f482ed65a5d44cf2acbfb66b6578d70d
+msgid "Application Example"
+msgstr ""
+
+#: ../../contents02.rst:99
+# 098e0183e42a4b56a3fd8017219c069f
+msgid "This contents is under construction."
+msgstr ""
+
+#: ../../contents02.rst:101
+# f65f6b96fa8643c48175d3cbf769ffe9
+msgid "mongoDB + fluentd + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:103
+# e6fbf04a4000491f949c306013af3888
+msgid "nox + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:105
+# 62e1ff3751de463fbde6a71b2707a21f
+msgid "pox + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:107
+# 5e87aa007ef245f9823ce68ab1b9cfa3
+msgid "trema + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:109
+# d5e1721c0246468fb168422b4c96702a
+msgid "sDashboard + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:111
+# a0c2f0f37db84312b0417efd28fc7c8b
+msgid "jqPlot + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:113
+# 14bc458ddb624e97aef0da7b8bd432ef
+msgid "Vimage Jail + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:115
+# ecb267c7657048028d3d7c89eae07c7a
+msgid "Android + PhoneGap + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:117
+# 14bc458ddb624e97aef0da7b8bd432ef
+msgid "libgeoip + glNetViz"
+msgstr ""
+
+#: ../../contents02.rst:119
+# 78973f7b33b84ac497a9439042f6d0d2
+msgid "Automating Dynamic Malware Analysis"
+msgstr ""
+

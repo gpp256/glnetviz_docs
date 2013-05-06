@@ -1,0 +1,178 @@
+# English translations for glNetViz package.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 01:36\n"
+"PO-Revision-Date: 2013-05-05 15:45\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 52101b97513a4c07879f501bc11cc75c
+#: ../../index.rst:5
+msgid "The glNetViz Manual"
+msgstr "The glNetViz Manual"
+
+# 53ede53e70ff44fab2b2e1766da14a4e
+#: ../../index.rst:7
+msgid "Last Update: |today|"
+msgstr "Last Update: |today|"
+
+# ef436bc50a114c808f5de2859b878a04
+#: ../../index.rst:10
+msgid "Welcome!"
+msgstr "Welcome!"
+
+# 00e2e7c185e64d4e8b4a20441137af54
+#: ../../index.rst:12
+msgid ""
+"The glNetViz is a free tool for visualizing computer network topologies with "
+"WebGL."
+msgstr ""
+"The glNetViz is a free tool for visualizing computer network topologies with "
+"WebGL."
+
+# 8deedb91eaf54e029b0ea77ce8ca48dc
+#: ../../index.rst:14
+msgid ""
+"With the abilities of real time visualizing network traffics flowing around "
+"the local network and to/from the Internet, you can manage and supervise the "
+"various network more easily and efficiently."
+msgstr ""
+"With the abilities of real time visualizing network traffics flowing around "
+"the local network and to/from the Internet, you can manage and supervise the "
+"various network more easily and efficiently."
+
+# 2e79e2a5a534487c9941f9dba69e9814
+#: ../../index.rst:21
+msgid "Contents"
+msgstr "Contents"
+
+# c217f758df3a4dfa9deff2f492a35425
+#: ../../index.rst:23
+msgid "Here's what's available for documentation:"
+msgstr "Here's what's available for documentation:"
+
+# bb073961f0304c128769c7c5639e71b2
+#: ../../index.rst:57
+msgid "References"
+msgstr "References"
+
+# f81e1b5ff6734f6bb877fcd76e027361
+#: ../../index.rst:59
+msgid "http://www.khronos.org/"
+msgstr "http://www.khronos.org/"
+
+# 952e1e175cd24f07b4eae5a213fa91db
+#: ../../index.rst:60
+msgid "http://wgld.org/"
+msgstr "http://wgld.org/"
+
+# 705d48abc1eb46c5bffbaa18fc1a0867
+#: ../../index.rst:61
+msgid "http://learningwebgl.com/blog/"
+msgstr "http://learningwebgl.com/blog/"
+
+# 2a8e279b7e6c4e9bb31b4c913114abc3
+#: ../../index.rst:62
+msgid "http://jquery.com/"
+msgstr "http://jquery.com/"
+
+# 86235d1eeada4ea7a94df206326387fb
+#: ../../index.rst:63
+msgid "https://github.com/azatoth/jquery-sprintf"
+msgstr "https://github.com/azatoth/jquery-sprintf"
+
+# f2a0d0720dff43959f9e4b3c28e95db6
+#: ../../index.rst:64
+msgid "http://sphinx-doc.org/"
+msgstr "http://sphinx-doc.org/"
+
+# e2dbc2dfcfaf420fbaa261186339538c
+#: ../../index.rst:65
+msgid "http://www.mayonakanouta.com/ja/node/12"
+msgstr "http://www.mayonakanouta.com/ja/node/12"
+
+# 5d99312629444f3a96857d758754940f
+#: ../../index.rst:66
+msgid "http://www.openflow.org/"
+msgstr "http://www.openflow.org/"
+
+# e1aa5c8ef925441eadbee021ea18c3de
+#: ../../index.rst:67
+msgid "http://www.opennetworkingfoundation.org/"
+msgstr "http://www.opennetworkingfoundation.org/"
+
+# f9aa11fdea40425a91d98c57d33709c3
+#: ../../index.rst:68
+msgid "http://www.sdncentral.com/"
+msgstr "http://www.sdncentral.com/"
+
+# 1ec413c427e94adfa00905ae2f55b0bb
+#: ../../index.rst:69
+msgid "http://www.mongodb.org/"
+msgstr "http://www.mongodb.org/"
+
+# c3b4b92887134412853691d7f3c51c0a
+#: ../../index.rst:70
+msgid "http://fluentd.org/"
+msgstr "http://fluentd.org/"
+
+# 7ee2d06611b84d79baadb7ed16ab026d
+#: ../../index.rst:71
+msgid "https://github.com/taboca/Chromeless-Ereader/blob/master/ereader.html"
+msgstr "https://github.com/taboca/Chromeless-Ereader/blob/master/ereader.html"
+
+# 0481d3537def4c599ca538ec7ead4d02
+#: ../../index.rst:74
+msgid "Links"
+msgstr "Links"
+
+# 75b329ba3db64395bd86c38be355b987
+#: ../../index.rst:76
+msgid "https://github.com/gpp256/glNetViz"
+msgstr "https://github.com/gpp256/glNetViz"
+
+# 4aba9ddb157b4be38e1bbe8835df29a3
+#: ../../index.rst:77
+msgid "http://gpp256.blogspot.jp"
+msgstr "http://gpp256.blogspot.jp"
+
+# d21d22d97b424349a2d7829b0bab20ee
+#: ../../index.rst:80
+msgid "License"
+msgstr "License"
+
+# 8be8e8c6e16541f592d577caefb0f142
+#: ../../index.rst:82
+msgid "Copyright © 2013 Yoshi"
+msgstr "Copyright © 2013 Yoshi"
+
+# 4fe401a1ad0f4532b35be7e773094c42
+#: ../../index.rst:83
+msgid "Distributed under the MIT License."
+msgstr "Distributed under the MIT License."
+
+# 404cde36f9cd413ba23b9a3ac49315f3
+#: ../../index.rst:86
+msgid "Indices and tables"
+msgstr "Indices and tables"
+
+# 6c502dbb769c42db9f407580f93d5427
+#: ../../index.rst:88
+msgid ":ref:`genindex`"
+msgstr ":ref:`genindex`"
+
+# 299fc7ebb26947bd9d0b6a03682e6ed8
+#: ../../index.rst:92
+msgid ":ref:`search`"
+msgstr ":ref:`search`"

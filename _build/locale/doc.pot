@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 01:42\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../doc.rst:3
+# 72cffb7af7dc4004b4cce6c1dc437e7d
+msgid "glNetViz Library Reference"
+msgstr ""
+
+#: ../../doc.rst:5
+# f8154e9a2bc4416d810deec33bc71f55
+msgid "This page is under construction."
+msgstr ""
+
+#: ../../doc.rst:7
+# 9d20d4009a9e41dfb86028d075ee07af
+msgid ":ref:`JavaScript<glnetviz-javascript>`"
+msgstr ""
+
+#: ../../doc.rst:8
+# 0221a729b7244b93bf08e1de964fd01e
+msgid ":ref:`Perl<glnetviz-perl>`"
+msgstr ""
+
+#: ../../doc.rst:9
+# f151c09007b3422fbd33ff6fda49de0d
+msgid ":ref:`Python<glnetviz-python>`"
+msgstr ""
+
+#: ../../doc.rst:10
+# 078c8e1bb8ff4f0fa1546e2d2b0da026
+msgid ":ref:`Ruby<glnetviz-ruby>`"
+msgstr ""
+
+#: ../../doc.rst:11
+# 5d21f8b993d14f26a36e9ac4bd5347dc
+msgid ":ref:`C<glnetviz-c>`"
+msgstr ""
+
+#: ../../doc.rst:12
+# ee7d774b3a0745b5bdc442dcc23fd8cb
+msgid ":ref:`Configuration Files<glnetviz-config>`"
+msgstr ""
+
+#: ../../doc.rst:21
+# 38e5cd26ad1d488ab0bdf96999e63d46
+msgid "JavaScript"
+msgstr ""
+
+#: ../../doc.rst:27
+# f7a875e15c554f0b982a83120d1dc030
+msgid "**glNetViz.generateSphereObjects()**"
+msgstr ""
+
+#: ../../doc.rst:29
+# 07ee3d1e6a1d4c8c9cd3cf520453cb78
+msgid "Generate sphere objects.  The parameters of sphere objects are stored in a sphader program object."
+msgstr ""
+
+#: ../../doc.rst:31
+# de10b20efa814c6295828cf6810a4b53
+msgid "Specification:"
+msgstr ""
+
+#: ../../doc.rst:47
+# 7f6a676ed33a44e6b8291cc32d8d4d80
+msgid "Usage example:"
+msgstr ""
+
+#: ../../doc.rst:62
+# 6c9c83ce78a6405d8b41230d093dff50
+msgid "See Also:"
+msgstr ""
+
+#: ../../doc.rst:64
+# 10100f4a5a0c4887b89a88eae2fc1153
+msgid "glNetViz.createProgram()"
+msgstr ""
+
+#: ../../doc.rst:65
+# b61a20913f114418ac0046aabaab37ea
+msgid "glNetViz.putSphere()"
+msgstr ""
+
+#: ../../doc.rst:73
+# 4a601ff04a29405997dd4fe7f07f20bb
+msgid "**glNetViz.createProgram()**"
+msgstr ""
+
+#: ../../doc.rst:75
+#: ../../doc.rst:85
+# ed61b64b1b27463b921e751bc06877e4
+# 989a4499cf014192a34609cd216c6560
+msgid "Description:"
+msgstr ""
+
+#: ../../doc.rst:83
+# b5873cba1bfd4ffbb4aaee6b1cf4958e
+msgid "**glNetViz.putSphere()**"
+msgstr ""
+
+#: ../../doc.rst:94
+# 154226f71f514721958c3a8757543ef6
+msgid "Perl"
+msgstr ""
+
+#: ../../doc.rst:99
+# c01f1c09a6194da8a424b37f979445e6
+msgid "Python"
+msgstr ""
+
+#: ../../doc.rst:105
+# 41142d1b5a454027a6ad3ea3e03d8bc3
+msgid "Ruby"
+msgstr ""
+
+#: ../../doc.rst:109
+# a1b6fee226864c8a9968de27d3dabf80
+msgid "C"
+msgstr ""
+
+#: ../../doc.rst:116
+# ba248ef2832d4345b3450898ca882ee6
+msgid "Configuration Files"
+msgstr ""
+
+#: ../../doc.rst:118
+# 4ac73d6be7984aefa3c03cccf1ce457e
+msgid "The steps for generating WebGL Pages are as follows."
+msgstr ""
+
+#: ../../doc.rst:120
+# 3786413eea5c40c297161fba504bfff7
+msgid "create the YAML format data."
+msgstr ""
+
+#: ../../doc.rst:152
+# 2508021853bb4c8ea1126a7b8c8970a5
+msgid "refer to the YAML format data from HTML(JavaScript)."
+msgstr ""
+

@@ -1,0 +1,54 @@
+# English translations for glNetViz package.
+# Copyright (C) 2013, Gpp Apps
+# This file is distributed under the same license as the glNetViz package.
+# Automatically generated, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glNetViz 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 01:41\n"
+"PO-Revision-Date: 2013-05-05 15:45\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 9ab39fdb76e543cebf7e452115bc0b70
+#: ../../history.rst:3
+msgid "History"
+msgstr "History"
+
+# fb5c24df8baf4faf9543020e7ce27447
+#: ../../history.rst:1
+msgid "Version"
+msgstr "Version"
+
+# 9ffb99a652d74bc1acd3d4416cb3c87a
+#: ../../history.rst:1
+msgid "Date"
+msgstr "Date"
+
+# a49cf7a042234d598243aaa27a520835
+#: ../../history.rst:1
+msgid "Description"
+msgstr "Description"
+
+# ec39ed26fee44ee6a8e7d14dc77d9c1f
+#: ../../history.rst:1
+msgid "0.9.0"
+msgstr "0.9.0"
+
+# 97aae08a119448b2a29e2d2af886e8a0
+#: ../../history.rst:1
+#, fuzzy
+msgid "07-May-2013"
+msgstr "06-May-2013"
+
+# b93f813d1fcb490ca7634dd2c0bbdc8b
+#: ../../history.rst:1
+msgid "first release."
+msgstr "first release."
